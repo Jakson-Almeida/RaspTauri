@@ -43,11 +43,13 @@ fn guess2(name: &str) -> String {
 
 Clone the repository:
 
-`git clone https://github.com/Jakson-Almeida/RaspTauri.git`
+```bash
+git clone https://github.com/Jakson-Almeida/RaspTauri.git
+```
 
 Navigate to the project directory and install dependencies:
 
-```python
+```bash
 cd RaspTauri
 cd src-tauri
 cargo tauri dev
