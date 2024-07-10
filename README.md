@@ -37,3 +37,16 @@ fn guess2(name: &str) -> String {
         },
     }
 }
+```
+
+Clone the repository:
+
+`git clone https://github.com/Jakson-Almeida/RaspTauri.git`
+
+Navigate to the project directory and install dependencies:
+
+`cd RaspTauri`
+`cd src-tauri`
+`cargo tauri dev`
+
+Enjoy playing the Guess Game and learning about Rust, Sycamore, and Tauri!
