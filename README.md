@@ -1,7 +1,9 @@
 # Guess Game
 
 ## Overview
-Guess Game is an educational project designed for beginners in Rust, Sycamore, and Tauri. The game generates a random number between 0 and 100, and the user tries to guess it. The game provides feedback if the guess is too high, too low, or correct.
+Guess Game is an educational project designed for beginners in **Rust**, **Sycamore**, and **Tauri**. The game generates a random number between 0 and 100, and the user tries to guess it. The game provides feedback if the guess is too high, too low, or correct.
+
+![Guess Game](https://github.com/Jakson-Almeida/RaspTauri/blob/main/public/guess-game.png)
 
 ## Technologies
 - **Rust**: A system programming language known for performance and safety.
