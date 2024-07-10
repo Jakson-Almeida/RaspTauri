@@ -46,7 +46,9 @@ Clone the repository:
 Navigate to the project directory and install dependencies:
 
 `cd RaspTauri`
+
 `cd src-tauri`
+
 `cargo tauri dev`
 
 Enjoy playing the Guess Game and learning about Rust, Sycamore, and Tauri!
